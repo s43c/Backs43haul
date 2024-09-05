@@ -243,9 +243,3 @@ journalctl -u backhaul.service -e -f
 ## License
 
 This project is licensed under the AGPL-3.0 license. See the LICENSE file for details.
-
-## Donation
-
-   <a href="https://nowpayments.io/donation?api_key=6Z16MRY-AF14Y8T-J24TXVS-00RDKK7&source=lk_donation&medium=referral" target="_blank">
-     <img src="https://nowpayments.io/images/embeds/donation-button-white.svg" alt="Crypto donation button by NOWPayments">
-    </a>
